@@ -1,0 +1,234 @@
+@font-face{
+    font-family: "epaomayek";
+    src:url("EPAOMAYEK.TTF")format("truetype");
+}
+.logo ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+}
+.logo li{
+    float: left;
+    padding: 0px 0px;
+    margin: 0 pt;
+}
+
+.log{
+margin: 0px 0px;
+height: 100px;
+width: 100px;
+background-color: blue;
+
+}
+.mayek{
+float: right;
+height: 100px;
+width: 1350px;
+background-color: azure;
+
+font-size: 27px;
+color: rgb(23, 164, 59);
+}
+.navbar{
+margin: 0%;
+background-color: greenyellow;
+}
+.navbar ul{
+list-style-type: none;
+display: block;
+overflow: hidden;
+}
+.navbar a{
+text-decoration: none;
+}
+.navbar li{
+float: left;
+padding: 10px 20px;
+border-left: 1px solid whitesmoke;
+border-right: 1px solid whitesmoke;
+}
+.navbar a:hover{
+background-color: aqua;
+}
+.site{
+margin: 10px 50px;
+color: rgb(23, 164, 59);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 20px;
+}
+.one ul{
+list-style-type: none;
+display: block;
+overflow: hidden;
+}
+.one li{
+float: left;
+padding: 0px 0px;
+margin: 0 pt;
+}
+.two{
+margin: 10px 10px;
+
+}
+.three{
+float: right;
+width: 500px;
+height: 300px;
+
+margin: 9px 10px;
+font-size: 20px;
+color: black;
+} 
+.four{
+float: right;
+width: 500px;
+height: 500px;
+margin: 20px 10px;
+background-color: firebrick;
+
+font-size: 27px;
+color: burlywood;
+}   
+.five ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+    }
+.five li{
+    float: left;
+    padding: 0px 0px;
+    margin: 0 pt;
+    }
+
+.six{
+    width: 930px;
+    height: 250px;
+    
+    margin: 0px 0px;
+    font-size: 20px;
+    color: black;   
+}
+.seven{
+    float: right;
+    width: 490px;
+    height: 250px;
+    
+    margin: 2px 20px;
+    font-size: 20px;
+    color: rgb(23, 164, 59);
+}
+.sixth {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 0;
+   
+gap: 20px;
+display: flex;
+flex-wrap: wrap;
+
+}
+.sixth h3{
+    color: green;
+
+width: 100%;
+margin-top: 20px;
+text-align: justify;
+font-size: 16px;
+line-height: 1.6;
+}
+.sixth-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px; 
+    padding: 5px 0; 
+    border-bottom: 1px solid #eee;
+     padding-left: 15px; 
+     padding-right: 15px;
+}
+ .sixth-item:last-child {
+    border-bottom: none; 
+ }
+.sixth-date {
+    background-color: #FFCC80; 
+    color: #5D4037; 
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-right: 10px;
+    white-space: nowrap; 
+    border: 1px solid #E6A44C; 
+    flex-shrink: 0;
+}
+.sixth-text {
+    font-size: 0.95em;
+}
+.sixth-text a {
+    text-decoration: none;
+    color: #BF360C; 
+    font-weight: bold;
+}
+.sixth-text a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+.seven-text p {
+    margin: 0; 
+    line-height: 1.5;
+    font-size: 0.95em;
+    color: #444; 
+    flex-direction: column;
+}
+.section-heading {
+    background-color: white; 
+    color:  green;
+    padding: 12px 15px;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-transform: uppercase;
+     margin: 0; 
+     margin-bottom: 0x; 
+}
+
+.last ul{
+    list-style-type: none;
+    display: block;
+    overflow: hidden;
+    }
+.last li{
+    float: left;
+    padding: 0px 0px;
+    margin: 0 pt;
+}
+.last1{
+    width: 450px;
+    height: 600px;
+    background-color: rgb(238, 238, 238);
+    
+}
+.last2{
+    width: 450px;
+    height: 600px;
+    background-color: rgb(238, 238, 238);
+   
+}
+.last3{
+    width: 550px;
+    height: 600px;
+    background-color: rgb(51, 204, 153);
+    text-align: center;
+   
+
+}
+.footer{
+    color: white;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+    margin: 0px;
+}
